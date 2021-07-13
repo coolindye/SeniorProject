@@ -8,10 +8,10 @@ from textblob import TextBlob
 # Import Libraries
 
 # Authentication Keys
-consumerKey = "BOD5rEk4EhxVURpXBVREOIWdZ"
-consumerSecret = "LH3Kx96HRC5mevEOoTCIqiuanNjR3OrHj1ZTH15845ao8rNt28"
-accessToken = "3309347388-65x6LwVcWcS50jafGLM1Kue4As1A6neudkD64Tk"
-accessTokenSecret = "pwHEDyLd5PFbVoxc0uWlS9idTgcGKkc6sTUfctGuOI1UN"
+consumerKey = ""
+consumerSecret = ""
+accessToken = ""
+accessTokenSecret = ""
 
 
 auth = tweepy.OAuthHandler(consumerKey, consumerSecret)
